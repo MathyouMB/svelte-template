@@ -17,15 +17,8 @@
 </Template>
 
 <Story
-  name="COMP 1805"
+  name="Base"
   args={{
-    label: 'COMP 1805'
-  }}
-/>
-
-<Story
-  name="COMP 2804"
-  args={{
-    label: 'COMP 2804'
+    label: 'Example'
   }}
 />
